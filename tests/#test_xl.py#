@@ -1,0 +1,4 @@
+import xl
+
+def test_xl():
+    assert(xl.read_excel('file.xlsx')
